@@ -10,6 +10,7 @@ c. Una vez borrados los # el codigo se volvio mas lento, pasando de tardar 0,3 s
 2.a.   ![hamburguesasTP3](https://github.com/JosueChazarreta/ASO2024TPs/assets/143630111/8455179f-ce09-4e42-8f92-cb3c3d79873a)
 
 
-   b. ![image](https://github.com/JosueChazarreta/ASO2024TPs/assets/143630111/09bf4c61-0451-4a8e-95f5-ee7102414277)
+   b. ![image](https://github.com/JosueChazarreta/ASO2024TPs/assets/143630111/8b1f1ed5-48f1-4d6e-9110-e2d884eb3a27)
+
 
 
